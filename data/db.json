@@ -1,0 +1,37 @@
+{
+  "blogs": [
+    {
+      "title": "Java programming",
+      "author": "Mary Doe",
+      "body": "There are many variations of lorem Ipsum",
+      "id": "7"
+    },
+    {
+      "id": "6f36",
+      "title": "Dev ops Engineer",
+      "author": "Edwin",
+      "body": "Contrary to popular belief,Lorem Ipsum"
+    },
+    {
+      "id": "67df",
+      "title": "",
+      "author": "",
+      "body": "",
+      "": "vutcutcc"
+    },
+    {
+      "id": "ab20",
+      "title": "",
+      "author": "",
+      "body": "",
+      "": "sabsub;"
+    },
+    {
+      "id": "c486",
+      "title": "",
+      "author": "",
+      "body": "",
+      "": "Hello wrold\n"
+    }
+  ]
+}
